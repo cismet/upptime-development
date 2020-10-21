@@ -1,6 +1,6 @@
-owner: koj-co
-repo: upptime
-user-agent: KojBot
+owner: helllth
+repo: upptime-development
+user-agent: cismet upptime
 sites:
   - name: Google
     url: https://www.google.com
@@ -12,13 +12,12 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+
 notifications:
   - type: slack
     channel: C016QTU9S9Y
 assignees:
-  - AnandChowdhary
+  - helllth
 status-website:
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
   name: Upptime
