@@ -1,6 +1,6 @@
 owner: cismet
 repo: upptime-development
-user-agent: cismet upptime
+user-agent: cismet-upptime-bot
 sites:
   - name: Google
     url: https://www.google.com
